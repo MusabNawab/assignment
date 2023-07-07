@@ -14,6 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# assignment
-# assignment
-# assignment
+## 3rd Party packages used:
+
+- [intl package](https://pub.dev/packages/intl)
+- [fl_charts](https://pub.dev/packages/fl_chart)
+- [riverpod](https://pub.dev/packages/riverpod)
+
+## App UI video:
+[Youtube](https://youtube.com/shorts/g6MLod8136E?feature=share)
